@@ -15,9 +15,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum unde nihil qui d
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum unde nihil qui doloribus, esse natus totam delectus excepturi nulla suscipit tenetur id corrupti mollitia commodi.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum unde nihil qui doloribus, esse natus totam delectus excepturi nulla suscipit tenetur id corrupti mollitia commodi.
 
-{% lightbox /assets/images/b-and-y.jpg --thumb="/assets/images/b-and-y.jpg" --data="appfoundry_image_set" --title="The AppFoundry Logo" --alt="This is our logo" --img-style="" --class="gal-l" %}
-{% lightbox /assets/images/b-and-y.jpg --thumb="/assets/images/b-and-y.jpg" --data="appfoundry_image_set" --title="The AppFoundry Logo" --alt="This is our logo" --img-style="" --class="gal-r" %}
-{% lightbox /assets/images/jekyll-poster.png --thumb="/assets/images/jekyll-poster.png" --data="appfoundry_image_set" --title="The AppFoundry Logo" --alt="This is our logo" --img-style="" --class="" %}
+<p><a href="../assets/images/b-and-y.jpg" data-lightbox="appfoundry_image_set" data-title="The AppFoundry Logo"><img src="../assets/images/b-and-y.jpg" alt="This is our logo" class="gal-l" style="" /></a>
+<a href="../assets/images/b-and-y.jpg" data-lightbox="appfoundry_image_set" data-title="The AppFoundry Logo"><img src="../assets/images/b-and-y.jpg" alt="This is our logo" class="gal-r" style="" /></a>
+<a href="../assets/images/jekyll-poster.png" data-lightbox="appfoundry_image_set" data-title="The AppFoundry Logo"><img src="../assets/images/jekyll-poster.png" alt="This is our logo" class="" style="" /></a></p>
 
 ![Humans]({{site.baseurl}}/assets/images/jekyll-poster.png)
 ![Humans]({{site.baseurl}}/assets/images/jekyll-poster.png)
