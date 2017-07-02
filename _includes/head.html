@@ -4,6 +4,17 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
   <meta name="description" content="{{ page.description }}">
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Bumhan Yu">
+  <meta property="fb:app_id" content="589097904625639">
+  <meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{% if page.img %}{{ "/assets/images/" | prepend: site.baseurl | append : page.img}}{% else %}{{"https://borninnewyork.net/announcement-2017/img/biny.jpg"}}{% endif %}">
+  <meta property="og:url" content="{{page.url}}">
+
+
   <link rel="shortcut icon" href="{{ "/assets/images/favicon.ico" | prepend: site.baseurl }}">
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400i,900i|Raleway:400,700" rel="stylesheet">
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
