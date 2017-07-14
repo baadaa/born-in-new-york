@@ -495,6 +495,12 @@ blockquote {
     // padding-bottom: 1rem;
     p {
       line-height: 1.6;
+      span {
+        color:#999;
+      }
+    }
+    .clear {
+      clear: both;
     }
   }
 
