@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Big announcement"
-title_k: "아이가 생겼어요"
-description: "Loud and clear we say. It's a girl!"
-desc_k: "꼬마 새 식구를 맞습니다!"
-date: 2017-02-08
+title:  "Fatherhood"
+title_k: "아빠 되기"
+description: "Bumhan on fatherhood."
+desc_k: "아빠가 된다는 것. 나, 우리 아버지."
+date: 2017-03-07
 categories: baby news
 has_video: true
-video_header: "https://www.youtube.com/embed/Icdc1XeER-s?rel=0&amp;showinfo=0"
-img: b-and-y.jpg
+video_header: "https://www.youtube.com/embed/d62ZWZirF5g?rel=0&amp;showinfo=0"
+img: fatherhood.jpg
 ---
 It was a hot summer night of 2016 that we knew&mdash;finding the clear two lines on pregnancy tester. We had been talking for a while about having a baby but didn't expect it to happen so soon! Both in late thirties, we had felt somewhat overly conscious of [those statistics around pregnancy by age](https://www.avawomen.com/avaworld/knowing-your-odds/), which made this news even more fantastic to us.
 

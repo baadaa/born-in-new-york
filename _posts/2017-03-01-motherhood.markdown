@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Big announcement"
-title_k: "아이가 생겼어요"
-description: "Loud and clear we say. It's a girl!"
-desc_k: "꼬마 새 식구를 맞습니다!"
-date: 2017-02-08
+title:  "Motherhood"
+title_k: "엄마 되기"
+description: "Young-Mi talks about motherhood."
+desc_k: "엄마가 된다는 것. 나, 우리 엄마, 우리 딸."
+date: 2017-03-01
 categories: baby news
 has_video: true
-video_header: "https://www.youtube.com/embed/Icdc1XeER-s?rel=0&amp;showinfo=0"
-img: b-and-y.jpg
+video_header: "https://www.youtube.com/embed/Cu4ZyeColoc?rel=0&amp;showinfo=0"
+img: motherhood.jpg
 ---
 It was a hot summer night of 2016 that we knew&mdash;finding the clear two lines on pregnancy tester. We had been talking for a while about having a baby but didn't expect it to happen so soon! Both in late thirties, we had felt somewhat overly conscious of [those statistics around pregnancy by age](https://www.avawomen.com/avaworld/knowing-your-odds/), which made this news even more fantastic to us.
 

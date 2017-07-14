@@ -2,7 +2,7 @@
 layout: post
 title:  "First days"
 title_k: "첫 며칠"
-description: Hana's first couple days after birth @ White Plains Hospital, Postpartum unit.
+description: Hana's first couple days after birth.
 desc_k: "병원에서 보낸 2박 3일, 그리고 집으로 가는 길."
 date: 2017-04-10
 categories: baby news

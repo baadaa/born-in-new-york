@@ -1,8 +1,11 @@
 title: Born in New York
 description: Diary of little Hana growing up
-url: "https://borninnewyork.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # for local testing only
+# url: "https://borninnewyork.net" # the base hostname & protocol for your site, e.g. http://example.com
+
 permalink: ':title/'
-baseurl: "https://borninnewyork.net" # the subpath of your site, e.g. /blog
+baseurl: "" # for local testing only
+# baseurl: "https://borninnewyork.net" # the subpath of your site, e.g. /blog
 
 sass:
     sass_dir: _sass

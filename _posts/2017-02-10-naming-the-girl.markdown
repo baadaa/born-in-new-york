@@ -5,11 +5,24 @@ title_k: "이름 짓기"
 description: "How do we name a Korean girl born into America?"
 desc_k: "미국에서 한국 이름 짓기"
 date: 2017-02-10
-categories: jekyll update
+categories: parent story
 img: board.jpg
 has_video: false
 ---
 
+#### We wanted a name that...
+
+- Is easy to pronounce for both Koreans and non-Koreans
+- Doesn't sound too ethnic nor too generic
+
+#### and did _not_ want to rely on...
+
+- Completely European or overly biblical names
+- Two separate&mdash;_English and Korean_&mdash;names to use either as middle-name
+
+Within the criteria, we started brainstorming as soon as we knew it's a girl. It probably is the same kind of naming challenge that every expat Korean parent goes through.
+
+-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum unde nihil qui doloribus, esse natus totam delectus excepturi nulla suscipit tenetur id corrupti mollitia commodi.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum unde nihil qui doloribus, esse natus totam delectus excepturi nulla suscipit tenetur id corrupti mollitia commodi.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum unde nihil qui doloribus, esse natus totam delectus excepturi nulla suscipit tenetur id corrupti mollitia commodi.
