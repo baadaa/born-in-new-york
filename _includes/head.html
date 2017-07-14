@@ -11,8 +11,8 @@
   <meta property="fb:app_id" content="589097904625639">
   <meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="{% if page.img %}{{ "/assets/images/" | prepend: site.baseurl | append : page.img}}{% else %}{{"https://borninnewyork.net/announcement-2017/img/biny.jpg"}}{% endif %}">
-  <meta property="og:url" content="{{page.url | prepend: site.baseurl }}">
+  <meta property="og:image" content="{% if page.img %}{{ "/assets/images/" | prepend: site.url | append : page.img}}{% else %}{{"https://borninnewyork.net/announcement-2017/img/biny.jpg"}}{% endif %}">
+  <meta property="og:url" content="{{page.url | prepend: site.url }}">
   <meta property="og:description" content="{{ page.description }}">
 
 
