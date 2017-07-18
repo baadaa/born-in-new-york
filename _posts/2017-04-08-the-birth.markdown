@@ -10,12 +10,22 @@ img: birth-scr.jpg
 has_video: true
 video_header: "https://www.youtube.com/embed/PSaQuMJvFNg?rel=0&amp;showinfo=0"
 ---
-Pellentesque sollicitudin volutpat ex at cursus. Sed lacinia consequat eros, id egestas odio fermentum et. Phasellus vitae vehicula ante, vitae imperdiet metus. Curabitur fermentum enim fermentum, sagittis nibh quis, tincidunt orci. Vivamus luctus nisi lobortis, faucibus lacus sed, tincidunt nunc. Nulla sed metus in odio commodo faucibus. Sed vitae ligula velit. Cras tempor molestie neque, ut cursus tellus pretium quis. Curabitur in neque sapien. Aliquam at accumsan ipsum. Etiam pellentesque nisi nec leo commodo, sed porttitor urna tempus. Donec non eros sit amet nisl blandit porta. Etiam molestie consectetur nulla, sit amet cursus ex lobortis a. Maecenas sed est augue. Etiam libero eros, pellentesque non risus a, maximus egestas ante.
+Everything happened so fast. In just a matter of hours, we became a family of three.
 
-Proin vehicula sed elit sed ultricies. Curabitur tincidunt mi et mauris consequat, maximus facilisis metus euismod. Donec condimentum est aliquet, egestas lacus et, tempor magna. Vivamus tempus est id semper aliquam. Fusce nec mi sit amet ipsum lobortis rutrum. Sed nec ipsum fermentum, fermentum erat vitae, maximus ante. Suspendisse potenti. Cras eros lectus, molestie porttitor vulputate quis, pulvinar quis metus. Aliquam nibh quam, consequat eget mattis at, interdum quis turpis. Aenean varius porttitor sodales. Proin elementum, est nec condimentum faucibus, elit enim sollicitudin nunc, laoreet luctus odio sapien sagittis lorem. In in mollis purus. Quisque consequat imperdiet mattis. Suspendisse potenti. Donec vehicula porta lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Shortly after dinner at 9:30pm, Young-Mi felt some warm trickle, which turned out her water breaking. Three hours and a few doctor calls later, we were at the hospital. Oddly enough, even after her water broke, it didn't feel much like an urgency&mdash;Young-Mi was calm and usual, which made people around them at ease.
 
-Nam maximus ipsum in tortor sagittis, pretium facilisis odio vehicula. Nulla venenatis luctus dolor ac feugiat. Fusce pellentesque ex non neque accumsan euismod. Suspendisse eleifend, ante sed aliquam dignissim, mauris nulla molestie tellus, quis ultrices mauris ante vel sapien. Aliquam vel ultrices felis. Nulla egestas pharetra justo, et dictum nibh feugiat in. In vehicula, purus eget scelerisque accumsan, mauris dolor consectetur nibh, condimentum porta diam velit nec arcu. Sed feugiat, lorem id lacinia vulputate, nulla quam faucibus neque, a convallis leo tortor ut dolor. Proin gravida auctor nisi, non posuere ligula elementum sit amet. Quisque dignissim ultricies viverra. Praesent nec massa euismod dolor tristique sollicitudin. Vestibulum quam massa, ultrices sagittis iaculis eget, laoreet ac nulla. Ut aliquam viverra elementum.
+상황이 순식간에 진행되었고, 저녁 밥상에서는 두 명이던 우리 가족이 다음날 아침 무렵에는 세 명이 되었답니다.
+{: .ko}
 
-Vivamus tempor ligula diam, at tincidunt libero pellentesque sed. Proin aliquam nisi eu est aliquam placerat. Nam eu neque vel diam semper facilisis. Duis sit amet libero sed elit molestie dignissim at id mauris. Duis egestas tristique tortor, at convallis purus vulputate et. Integer consectetur sed ex a vehicula. Praesent a suscipit elit, porta venenatis tellus. Donec nec porttitor urna. Fusce elementum neque rutrum dui vehicula consequat. Phasellus nec placerat nunc. Fusce metus eros, auctor sit amet viverra eu, commodo eget eros.
+퇴근후 저녁을 먹고 나서 쉬려는데 영미가 이상한 느낌이 든다고 하더니, 그렇게 조용히 양수가 터졌습니다. 긴급하다면 긴급한 상황인데도 영미는 너무나 차분했고, 그렇게 병원과 몇 차례 통화를 주고 받으며 확인을 한 다음, 자정이 지난 시각에 우리는 입원 수속을 밟았습니다. 양수가 터졌다 하면 으레 상상하듯 긴박하고 위급한 느낌과는 달리, 웃으며 농담까지 나누고 있었지요.
+{: .ko}
 
-Aliquam non varius dui, ac rhoncus dolor. Curabitur quis pellentesque massa. Nam porta id odio vel luctus. Quisque at hendrerit velit. Etiam non ante nulla. Cras placerat, tellus a interdum rutrum, diam mauris sodales ligula, non lacinia nunc lorem eget justo. Morbi commodo posuere quam at feugiat. Praesent porttitor iaculis lectus, a cursus nunc pretium quis. In tempor leo vitae lectus fermentum efficitur. Quisque in varius leo. Nulla in elementum magna.
+Contractions began a couple hours later, and by 4am Young-Mi was in serious pains and began to tumble and groan. Since we had already decided to use epidural, by this hour an anesthetist was called for to administer. Suprisingly&mdash;or _not_ so surprisingly, for that matter&mdash;she started to feel much better and smiled again. From that point on, through sunrise, we came back to our calm and easy selves.
+
+오래지 않아 진통이 시작되었고, 새벽 4시 무렵에는 고통에 신음하며 이리저리 뒤척이는 모습을 보아야 했습니다. 임신기간 중에 의사와 논의하면서 이미 무통주사 사용을 결정했기에, 진통이 심해지면서 마취의를 부르게 되었구요. 마취의 효력은 정말 놀랄 정도로 빨리 찾아와서, 15분쯤 지나니 다시 편안해진 모습으로 함께 웃음도 나눌 수 있을 정도가 됐답니다. 그렇게 해가 뜨고 아침을 맞는 동안은 다시 평온한 시간이 되었습니다.
+{: .ko}
+
+Labor started at around 9:30am, and we heard the first cry at 10:26am. Having heard of stories about 10-, 12-hour labor, we just felt incredibly blessed for such smooth process. A happy mom, a happy baby, and a happy dad, now take the first step together.
+
+아침 9:30 무렵에 분만에 들어갔는데, 의료진이 들어오고 채 한 시간이 되지 않아 10:27에는 아기 울음소리를 듣게 되었습니다. 누구는 10시간 진통을 했다더라, 누구는 12시간이 걸렸다더라, 무서운 경험담들을 듣고 난 뒤라, 비교적 순탄했던 저희의 분만 과정이 더욱 고맙더군요. 상상으로만 준비하던 엄마 아빠 아기의 세 가족 체제는 이렇게 첫 걸음을 떼게 됩니다.
+{: .ko}

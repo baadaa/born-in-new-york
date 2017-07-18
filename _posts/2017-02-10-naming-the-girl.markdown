@@ -13,8 +13,8 @@ has_video: false
 #### We wanted a name that...
 
 - Is easy to spell and pronounce for both Koreans and non-Koreans
-- Doesn't sound too ethnic nor too generic
-- Relies on two separate&mdash;_English and Korean_&mdash;names to use one or the other as middle-name
+- Does not sound too ethnic nor too generic
+- Does not rely on two separate&mdash;_English and Korean_&mdash;names to use one or the other as middle-name
 
 #### 우리의 기준은...
 {: .ko}
@@ -27,6 +27,7 @@ has_video: false
 Within these three _simple_ criteria<span>&mdash;yeah, right?&mdash;</span>we started brainstorming as soon as we knew it's a girl. Ask any Korean expat parent, and they will probably tell you _their_ version of naming struggle. While the criteria might vary, the foundational challenge still remains&mdash;you would like your child to culturally blend in but not completely abandon their cultural heritage.
 
 간단하지만 간단하지 않은 세 가지 기준을 가지고, 몇 달동안 구상에 구상을 이어갔습니다. 외국에서 아이를 낳아 기르는 한국인 부모라면 아마 비슷한 고민을 할 테고, 결정의 기준은 제각기 다르더라도 큰 고민의 줄기는 서로 비슷하리라 생각합니다. 아이가 현지 사회에서 자연스럽게 어울릴 수 있었으면 좋겠지만, 그래도 출신 문화의 배경을 아예 포기하지는 않았으면 좋겠다는 생각이지요.
+{: .ko}
 
 <a href="../assets/images/naming-brainstorm.jpg" data-lightbox="brainstorming" data-title="Some of the names on the whiteboard..."><img src="../assets/images/naming-brainstorm.jpg" alt="Some of the names on the whiteboard..." class="gal-l" style="" /></a>
 <a href="../assets/images/naming-brainstorm-2.jpg" data-lightbox="brainstorming" data-title="Some of the names on the whiteboard..."><img src="../assets/images/naming-brainstorm-2.jpg" alt="Some of the names on the whiteboard..." class="gal-r" style="" /></a>
