@@ -3,9 +3,9 @@ layout: post
 title:  "Sonograms"
 title_k:  "초음파 사진"
 description: "Magical moments of meeting the baby girl"
-desc_k: "바바바"
+desc_k: "아기를 마주하는 마법같은 순간"
 date: 2017-02-19
-categories: technology update
+categories: baby news
 img: sono.jpg
 has_video: false
 ---

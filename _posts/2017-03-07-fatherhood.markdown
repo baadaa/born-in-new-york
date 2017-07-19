@@ -5,7 +5,7 @@ title_k: "아빠 되기"
 description: "Bumhan on fatherhood."
 desc_k: "아빠가 된다는 것. 나, 우리 아버지."
 date: 2017-03-07
-categories: baby news
+categories: parent story
 has_video: true
 video_header: "https://www.youtube.com/embed/d62ZWZirF5g?rel=0&amp;showinfo=0"
 img: fatherhood.jpg

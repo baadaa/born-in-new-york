@@ -5,7 +5,7 @@ title_k: "엄마 되기"
 description: "Young-Mi talks about motherhood."
 desc_k: "엄마가 된다는 것. 나, 우리 엄마, 우리 딸."
 date: 2017-03-01
-categories: baby news
+categories: parent story
 has_video: true
 video_header: "https://www.youtube.com/embed/Cu4ZyeColoc?rel=0&amp;showinfo=0"
 img: motherhood.jpg
