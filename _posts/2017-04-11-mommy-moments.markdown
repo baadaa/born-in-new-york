@@ -7,7 +7,8 @@ desc_k: "서로 마주볼 때, 벅찬 뭉클함이 피어납니다."
 date: 2017-04-11
 categories: baby news
 img: mommy-moment.jpg
-has_video: false
+has_video: true
+video_header: "https://www.youtube.com/embed/sG8dMNNyjMQ?rel=0&amp;showinfo=0"
 ---
 Staring at sonogram images is one thing, holding the baby is quite another. Once back at home, we simply _couldn't stop_ looking at her&mdash;such a beautiful little baby we invited to the world out of love. Most of the day Hana would just sleep, feed, or cry. Too little to have any real interaction, Hana doesn't seem to fully realize our presence near her. A one-way love from us to Hana as it is, we most definitely feel connected with her.
 
