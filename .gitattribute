@@ -1,0 +1,6 @@
+_sass/_flex.scss linguist-vendored
+_sass/_normalize.scss linguist-vendored
+_sass/_syntax.scss linguist-vendored
+_sass/lightbox.scss linguist-vendored
+assets/js/vendor/* linguist-vendored
+*.md linguist-documentation
