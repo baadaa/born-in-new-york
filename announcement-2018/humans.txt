@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Bumhan Yu
+    Designer/Developer/Dad-to-be
+
+# THANKS
+
+    Family and friends in Seoul, Korea
+    JJ
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    jQuery, Modernizr, Normalize.css
