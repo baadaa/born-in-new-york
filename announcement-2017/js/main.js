@@ -22,9 +22,12 @@ $(document).ready(function(){
     },
     smoothScroll: function (e) {
       e.preventDefault();
-      this.toggleMenu();
       var target = e.target.hash;
       var $target = $(target);
+      console.log(target);
+      if(target !== "#intro") {
+        this.toggleMenu();
+      }
 
       $('html, body').stop().animate({
           'scrollTop': $target.offset().top
